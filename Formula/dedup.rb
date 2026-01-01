@@ -1,8 +1,8 @@
 class Dedup < Formula
   desc "An extremely fast and efficient duplicate file finder"
   homepage "https://github.com/denizariyan/dedup"
-  url "https://github.com/denizariyan/dedup/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "2a8aa8ee76631803129336a9a72dca56a51657f03ea927dea0b631685a0ffd90"
+  url "https://github.com/denizariyan/dedup/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "146de385819744519315e185b63e393b1fff9dfe2b3daed827696f83c5abbf3d"
   license "MIT"
 
   depends_on "rust" => :build
